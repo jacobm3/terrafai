@@ -7,10 +7,12 @@ Terrafai is an open-source CLI tool that utilizes OpenAI's GPT-4 to intelligentl
 🤖 GPT-4 Integration: Utilize the power of OpenAI's GPT-4 to manipulate your Terraform configurations.  
 ⚙️ Automated Checks: Option to run 'terraform init' and 'terraform validate' before processing.  
 🔄 Diff Output: Visualize changes before they're made.  
-🛠️ Flexible Operations: Specify any bulk operations.  
+🛠️ Flexible Operations: Specify any bulk operations. Will be passed into prompt template. 
 🚀 Dry Run Mode: Preview the changes without making actual API calls.  
 
 All changes will be placed into a timestamped subdirectory of your current project.  
+
+Many improvements to come!  
 
 ## Prerequisites
 
