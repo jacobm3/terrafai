@@ -10,6 +10,8 @@ Terrafai is an open-source CLI tool that utilizes OpenAI's GPT-4 to intelligentl
 🛠️ Multiple Operations: Extensible framework to apply a variety of operations like "optimize", "cleanup", "document" etc.  
 🚀 Dry Run Mode: Preview the changes without making actual API calls.  
 
+All changes will be placed into a timestamped subdirectory of your current project.  
+
 ## Prerequisites
 
 - OpenAI API Key: To access GPT-4 services
