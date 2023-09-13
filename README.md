@@ -11,7 +11,7 @@ Terrafai is an open-source CLI tool that allows you to edit an entire Terraform 
 ## Features
 
 🤖 GPT-4 Integration: Utilize the power of OpenAI's GPT-4 to manipulate your Terraform configurations.  
-⚙️ Automated Checks: Pre- and post-checks with 'terraform validate' to ensure quality.
+⚙️ Automated Checks: Pre- and post-checks with 'terraform validate' to ensure quality.  
 🔄 Diff Output: Visualize changes before they're made.  
 🛠️ Flexible Operations: Specify any bulk operations. Will be passed into prompt template. 
 
