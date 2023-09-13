@@ -38,10 +38,10 @@ export OPENAI_API_KEY='your-api-key-here'
 
 ## Usage
 
-Basic usage:
+Basic usage, from inside your Terraform project directory:
 
 ```
-terrafai -op "Append '-demo' to all resource names."
+terrafai -d -op "Append '-demo' to all resource names."
 ```
 
 ## Contributing
