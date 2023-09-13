@@ -14,7 +14,7 @@ All changes will be placed into a timestamped subdirectory of your current proje
 
 ## Prerequisites
 
-- OpenAI API Key: To access GPT-4 services
+- OpenAI API Key with GPT-4 enabled (https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4)
 - Terraform installed: The CLI tool interacts with Terraform project directories
 
 ## Installation
