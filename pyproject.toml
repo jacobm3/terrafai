@@ -1,0 +1,33 @@
+[build-system]
+requires = ["hatchling", "hatch-requirements-txt"]
+build-backend = "hatchling.build"
+
+[project]
+name = "terrafai"
+version = "0.1.4"
+authors = [
+  { name="Jacob Mthree", email="jacobm3@gmail.com" },
+]
+description = "Apply OpenAI gpt changes to an entire Terraform project directory"
+readme = "README.md"
+requires-python = ">=3.7"
+dynamic = ["dependencies"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/jacobm3/terrafai"
+"Bug Tracker" = "https://github.com/jacobm3/terrafai/issues"
+
+[project.scripts]
+terrafai = "terrafai:main"
+
+[tool.hatch.metadata.hooks.requirements_txt]
+files = ["requirements.txt"]
+
+
+
+

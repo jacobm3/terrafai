@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: terrafai
+Version: 0.1.4
+Summary: Apply OpenAI gpt changes to an entire Terraform project directory
+Author-email: Jacob Mthree <jacobm3@gmail.com>
+Project-URL: Homepage, https://github.com/jacobm3/terrafai
+Project-URL: Bug Tracker, https://github.com/jacobm3/terrafai/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# template-gitignore

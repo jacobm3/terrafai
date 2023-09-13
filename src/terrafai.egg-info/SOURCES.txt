@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/terrafai/__init__.py
+src/terrafai/terrafai.py
+src/terrafai.egg-info/PKG-INFO
+src/terrafai.egg-info/SOURCES.txt
+src/terrafai.egg-info/dependency_links.txt
+src/terrafai.egg-info/entry_points.txt
+src/terrafai.egg-info/top_level.txt
