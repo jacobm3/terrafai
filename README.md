@@ -54,8 +54,3 @@ Contributions are what make the open-source community such an amazing place to l
 1. Push to the branch (git push origin feature/AmazingFeature)
 1. Open a pull request
 
-
-## Acknowledgements
-
-I'd like to thank Harrison Chase for writing Langchain and Matt Deutsch for introducing me to it. Thanks guys!!!
-
