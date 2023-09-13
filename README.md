@@ -41,7 +41,7 @@ export OPENAI_API_KEY='your-api-key-here'
 Basic usage:
 
 ```
-terrafai -op "Append '-demo' to all resources."
+terrafai -op "Append '-demo' to all resource names."
 ```
 
 ## Contributing
