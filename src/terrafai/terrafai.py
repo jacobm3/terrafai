@@ -144,7 +144,7 @@ def recreate_tf_files_from_delim_str(delimited_str):
         try:
             filename = filtered_segments[i].strip()
             # debug('Filename: ' + filename)
-            content = filtered_segments[i + 1].strip()
+            content = filtered_segments[i + 1]
             # debug('content: ' + content)
         except IndexError:
             debug('IndexError, skipping')
