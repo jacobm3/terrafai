@@ -1,11 +1,12 @@
 # Terrafai: Supercharge Your Terraform Projects with GPT-4
 
-Terrafai is an open-source CLI tool that allows you to edit an entire Terraform project directory with GPT-4, the LLM behind ChatGPT. Make sweeping changes at once:
+Terrafai is an open-source CLI tool that allows you to edit entire Terraform project directories with natural langauge prompts. Make sweeping changes at once:
 
+- Fix security issues
 - Refactor an entire project
 - Change resource naming conventions
 - Apply your company's latest resource tagging standards
-- Anything ChatGPT can do, but at the project level
+- Anything ChatGPT can do, but across multiple files at the project/workspace level
 
 
 ## Features
