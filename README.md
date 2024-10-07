@@ -27,6 +27,13 @@ Many improvements to come!
 
 ## Installation
 
+Some recent python environments insist you install 3rd party modules in a virtual environment:
+
+```
+python3 -m venv dev && cd dev && . bin/activate
+```
+
+Install with pip:
 ```
 pip install terrafai
 ```
